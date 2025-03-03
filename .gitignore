@@ -1,0 +1,4 @@
+.vscode/settings.json
+todo_items.txt
+/docs/build
+/src/__pycache__

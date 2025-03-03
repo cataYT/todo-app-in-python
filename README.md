@@ -1,2 +1,2 @@
 # todo-app-in-python
-my first python project
+To build documentation, go to docs and run make.bat or Makefile.
